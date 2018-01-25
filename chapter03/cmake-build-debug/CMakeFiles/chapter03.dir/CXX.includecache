@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/CPPCodes/CPPPrimer/chapter03/main.cpp
+/home/panta/C-C++/CPPPrimer/chapter03/main.cpp
 iostream
 -
 string
